@@ -1,1 +1,0 @@
-print("bytecore FIX2")
